@@ -1,4 +1,4 @@
-
+automatic Notion for Windows Plugin | math-equations + rich-text-editing is the best Notion for Windows plugin, featuring math-equations and rich-text-editing. Powerful,
 
 
 
